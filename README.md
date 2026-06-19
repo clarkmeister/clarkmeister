@@ -1,19 +1,17 @@
-### Hi there 👋
+﻿### Hi there 👋
 
-About Me:
-I grew up in a small town and started operating farm equipment for a summer job after I turned 15. In 2007 I earned my high school diploma. I continued to operate and work on farm equipment after high school until I turned 25. I decided that I wanted to do something different with my life and had an interest in computers and how they work. I decided to attend OIT in Klamath falls. I started out going for a degree in Hardware Engineering. At the end of my first year we were asked to lock in our majors; I changed my target degree to Software Engineering Technology. While at Oregon Tech, I signed up for the MECOP internship program which helped me get two 6-month internships. My first internship was at Intel as an Automated Testing Intern, and my second internship was at Portland General Electric as a DevOps Intern. I graduated from Oregon Institute of Technology with a BS in Software Engineering Technology in March of 2020.
+I grew up in a small town and spent years working on farms, operating and repairing equipment.
+At 25, I decided to act on a lifelong curiosity about how computers and games worked, from the
+consoles and PCs I grew up playing to the machines running everything behind the scenes, and
+enrolled at Oregon Institute of Technology. I started in Hardware Engineering before switching to
+Software Engineering Technology. Through OIT's MECOP internship program I completed two 6-month
+internships: at Intel Corporation as an Automated Testing Intern (Jul 2017 – Jan 2018) and at
+Portland General Electric as a DevOps Intern (Jun 2018 – Dec 2018). I graduated with a B.S. in
+Software Engineering Technology in March 2020.
 
-<!--
-**Clarkmeister/clarkmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+That path eventually led me to the Hanford Site in Washington State, one of the largest nuclear
+cleanup projects in the world, involving the retrieval and treatment of millions of gallons of
+radioactive tank waste left over from Cold War-era plutonium production. I joined Washington River
+Protection Solutions (WRPS) in October 2021 as a Software Engineer supporting tank farm operations.
+In February 2025, when the DOE re-competed the contract and Hanford Tank Waste Operations & Closure
+(H2C) took over, I transitioned to the new contractor and have continued the same work at the same site.
