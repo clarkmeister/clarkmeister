@@ -1,4 +1,4 @@
-﻿### Hi there 👋
+﻿### Hi there
 
 I grew up in a small town and spent years working on farms, operating and repairing equipment.
 At 25, I decided to act on a lifelong curiosity about how computers and games worked, from the
