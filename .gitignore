@@ -1,0 +1,6 @@
+# Node
+node_modules/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
